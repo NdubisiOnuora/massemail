@@ -1,0 +1,14 @@
+{
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587,
+  "sender_email": "EMailAddress",
+  "sender_password": "EMailPassword",
+  "blind_copy_email": ["", ""],
+  "email_template_text_file_name": "templates/email_template_text.txt",
+  "email_template_html_file_name": "templates/email_template_html.html",
+  "email_subject": "Sponsorship Request for Hackathon for Young Professionals (College Students Permitted)",
+  "recipient_data_file_name": "test.csv",
+  "report_file_name": "output/sponsorship_submission.csv",
+  "main_contact_name": "SenderFirstName",
+  "attachment_file_names": ["attachments/2019 HackFest Sponsorship Package.pdf", "attachments/HackFest Demo Day.jpg", "attachments/HackFest Event.jpg"]
+}
