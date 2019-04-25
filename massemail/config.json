@@ -1,6 +1,6 @@
 {
-  "smtp_server": "smtp.gmail.com",
-  "smtp_port": 587,
+  "smtp_server_name": "smtp.gmail.com",
+  "smtp_server_port": 587,
   "sender_email": "EMailAddress",
   "sender_password": "EMailPassword",
   "blind_copy_email": ["", ""],

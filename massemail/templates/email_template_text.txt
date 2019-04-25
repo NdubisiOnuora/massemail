@@ -2,17 +2,14 @@ Hi {name},
 
 My name is {main_contact_name}. I am part of an organization called Enza Academy, and we are hosting a hackathon called HackFest (hackfest.nyc) for young professionals (college students are welcome)
 from April 19 to 21 at Microsoft's NYC office in the 11 Times Square building, and we would be excited if {company} could partner with us. In the last event, we hosted about 100 students
-at the Microsoft Reactor at Grand Central and gave away more than $3000 in prize money (including Bitcoin)! You can find the media for past events below.
+at the Microsoft Reactor at Grand Central and gave away more than $3000 in prize money (including Bitcoin)! You can find the media for our past event below.
 
-Media for Past Events
+Media for Our Past Event
 #####################################
 
 College Hackathon
+* Video: https://youtu.be/K1QNxWtZg9o
 * Photos: https://www.facebook.com/pg/EnzaAcademy/photos/?tab=album&album_id=883376001822997
-
-High School Hackathon
-* Video:  https://youtu.be/0Wkq43-9zjM
-* Photos:  https://www.facebook.com/pg/EnzaAcademy/photos/?tab=album&album_id=839864776174120
 
 I have attached the sponsorship package and other event information. If you have any questions or comments, please let me know.
 
